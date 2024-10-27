@@ -1,9 +1,9 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Tulio Barria Aguila</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Tulio Barria Aguila -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 💡 &nbsp;I enjoy exploring new technologies and developing software solutions, especially for practical applications.\
 🎓 &nbsp;I’m currently studying Civil Engineering in Telematics at the Universidad Técnica Federico Santa María.\
 🌱 &nbsp;I’m advancing my knowledge in environmental monitoring, database management, and software development for real-world applications.\
