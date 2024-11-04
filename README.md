@@ -9,7 +9,7 @@
 🌱 &nbsp;I’m advancing my knowledge in environmental monitoring, database management, and software development for real-world applications.\
 ✍️ &nbsp;In my free time, I enjoy working on programming projects and improving my skills in environmental monitoring.\
 💬 &nbsp;Feel free to reach out to me for collaboration on technology or environmental projects, or just for an interesting discussion on innovative solutions.\
-✉️ &nbsp;You can shoot me an email at [tuliobarria32@gmail.com]! I’ll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at [tuliobarria32@gmail.com]! I’ll try to respond as soon as I can
 
 ### 🛠 &nbsp;Tech Stack
 
